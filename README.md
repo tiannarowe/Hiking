@@ -13,4 +13,7 @@ One thing that remains a priority in my life is excerising. Hiking challenges my
 ### Appreciation for the Outdoors
 
 The all time most important value in my life is to be grateful for what I have in every season of my life. Exploring the great outdoors helps me to **appreciate the beauty** I have all around me in times where I find it hard to be grateful. 
-theme: minima
+
+### Said's comment
+
+I really like your website hiking is one of my favorite things to do.
