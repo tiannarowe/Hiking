@@ -4,7 +4,7 @@ Hiking is a recreational outdoor activity the involves walking trails or path th
 
 # Relaxation
 
-Nothing compares to the *relaxing* sound of nature, the smell of fresh air, and the beautiful views and waterfalls that the hikes in the PNW provide. A perfect place to clear your mind.
+Nothing compares to the *relaxing* sound of nature, the smell of fresh air, and the beautiful views and waterfalls that the hikes in the PNW provide. A perfect place to clear your mind. 
 
 ## Great Source of Exercise
 
@@ -17,3 +17,5 @@ The all time most important value in my life is to be grateful for what I have i
 ### Said's comment
 
 I really like your website hiking is one of my favorite things to do.
+
+![Hiking_to_the_Ice_Lakes _San_Juan_National_Forest,_Colorado](https://github.com/tiannarowe/Hiking/assets/143037539/7f046d1b-fde2-4798-8daf-3c6fec5ec381)
